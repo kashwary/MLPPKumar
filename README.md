@@ -1,4 +1,5 @@
 # MLPPKumar
+This was part of an assignment for a course. 
 
 Initially I used  a datacamp video explaining how to do a API call to import data. After that I used the documentation from ACS website as I was not able to get the block level data pulled using that video. 
 I tried a bunch of variables ranging from different population for different race to age and sex. A bunch of them didn't have the value for block level data. After trying for a bunch variables I chose, total population followed by male and female split for the total population. The other variables in the dataset are state, block, county.
